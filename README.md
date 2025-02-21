@@ -1,3 +1,5 @@
+![](https://github-readme-streak-stats.herokuapp.com/?user=sakiv-007&theme=monokai&hide_border=false)<br/>
+
 # 💫 About Me:
 👋 Hey there! I'm Vikas,<br><br>💻 Aspiring Software Engineer | CSE Undergrad | Open to Internships<br>🚀 Passionate about coding, problem-solving, and building impactful tech solutions. Currently exploring Web Development, AI/ML & Cloud Computing.<br>🌱 Learning new skills every day and working on exciting projects to level up my expertise.<br>📌 Tech Stack: HTML, CSS, Java, JavaScript, React, Node.js<br>📫 Let's connect! vikas.kmr.vk15@gmail.com,  https://www.linkedin.com/in/vikas-kumar-b761bb227<br><br>💡 "Code, Learn, Build, Repeat!"
 
