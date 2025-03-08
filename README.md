@@ -7,10 +7,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/sakiv.143) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikas-kumar-b761bb227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vikaskumar__010) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikas.kmr.vk15@gmail.com) 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sakiv-007&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=sakiv-007&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sakiv-007&theme=monokai&hide_border=false)![](https://github-readme-stats.vercel.app/api?username=sakiv-007&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakiv-007&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sakiv-007&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
