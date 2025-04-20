@@ -46,8 +46,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakiv-007&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=sakiv-007&theme=monokai&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-
 </div>
 
 ## 🏆 GitHub Trophies
