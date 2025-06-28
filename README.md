@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Vikas,<br><br>💻 Aspiring Software Engineer | CSE Undergrad | Open to Internships<br>🚀 Passionate about coding, problem-solving, and building impactful tech solutions. Currently exploring Web Development, AI/ML & Cloud Computing.<br>🌱 Learning new skills every day and working on exciting projects to level up my expertise.<br>📌 Tech Stack: HTML, CSS, Tailwindcss, Java, JavaScript, React, Node.js, Next.js <br><br>
+👋 Hey there! I'm Vikasssss,<br><br>💻 Aspiring Software Engineer | CSE Undergrad | Open to Internships<br>🚀 Passionate about coding, problem-solving, and building impactful tech solutions. Currently exploring Web Development, AI/ML & Cloud Computing.<br>🌱 Learning new skills every day and working on exciting projects to level up my expertise.<br>📌 Tech Stack: HTML, CSS, Tailwindcss, Java, JavaScript, React, Node.js, Next.js <br><br>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
